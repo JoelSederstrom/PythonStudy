@@ -1,3 +1,5 @@
+# 2022_01_18 Recommend using a simple code editor for python.  I used VisualStudioCode.  https://code.visualstudio.com/
+
 nearby_people = {'Rolf', 'Jen', 'Anna'}
 user_friends = set()  # This is an empty set, like {}
 print('Items in the set "nearby_people" are: ' + str(nearby_people))
